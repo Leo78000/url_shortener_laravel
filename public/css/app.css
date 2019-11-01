@@ -1,0 +1,30 @@
+body{
+    background:cornflowerblue;
+}
+.container{
+    font-family:Montserrat;
+    width:800px;
+    padding-top: 5em;
+    text-align: center;
+    margin:0 auto;
+}
+.error-msg{
+font-weight: bold;
+color:red;
+font-size:2em;
+font-family:Montserrat;
+}
+a{
+color:orange;
+font-size:32px;
+}
+
+input[type="text"]{
+border-radius: 5px;
+margin:0 auto;margin-top:10px;
+width:300px;
+text-align:center;
+display:block;
+border:none;
+padding: 1em 0.5em;
+}
